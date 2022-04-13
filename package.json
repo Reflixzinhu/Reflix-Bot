@@ -1,0 +1,7 @@
+{
+  "name": "Reflix",
+  "version": "1.0.0",
+  "description": "A discord bot for studying purposes",
+  "main": "index.js",
+  "license": "MIT"
+}
